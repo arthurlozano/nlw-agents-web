@@ -46,7 +46,7 @@ src/
 
 1. Clone o repositório:
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/arthurlozano/nlw-agents-web.git
 cd web
 ```
 
